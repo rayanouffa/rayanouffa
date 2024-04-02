@@ -1,6 +1,7 @@
-Hi 👋 My name is Rayan
-======================
 
+![giphy-4275516583](https://github.com/rayanouffa/rayanouffa/assets/144558370/7711b0a2-f824-4ee4-ad66-977f91722912)
+
+Hi 👋 My name is Rayan, 
 Graphic Desiner And Developer
 -----------------------------
 
@@ -12,7 +13,6 @@ My main language is PYTHON and I learn how I can use it in UI and i create many 
 * ⚡  I think I'm funny and I can learn quickly compared to my age
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
