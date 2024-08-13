@@ -9,7 +9,7 @@ My main language is PYTHON and I learn how I can use it in UI and i create many 
 
 * 🌍  I'm based in Algeria
 * 🚀  I'm currently working on [Student Registration System](http://https://github.com/rayanouffa)
-* 🧠  I'm learning Python and a bit of Photoshop
+* 🧠  I'm learning Python and Java, I use java for mineCraft Modding
 * ⚡  I think Coding Domain is the best and it's the place where you can know your self 👾😋
 
 ### Skills
