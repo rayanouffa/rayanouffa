@@ -30,3 +30,9 @@ My main language is PYTHON and I learn how I can use it in UI and i create many 
 <a href="http://www.github.com/rayanouffa"><img src="https://github-readme-stats.vercel.app/api?username=rayanouffa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rayanouffa's GitHub stats" /></a>
 
 <a href="http://www.github.com/rayanouffa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanouffa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayanouffa/rayanouffa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayanouffa/rayanouffa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
